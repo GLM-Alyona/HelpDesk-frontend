@@ -1,3 +1,6 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/nnyxxhaxwk0egis8?svg=true)](https://ci.appveyor.com/project/GLM-Alyona/helpdesk-frontend)
+
+
 ### HelpDesk
 
 #### Легенда
